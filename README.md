@@ -1,7 +1,7 @@
 # Data Visualization Projects done using Python 3, matplotlib, numpy, pandas, etc
 
 This repo contains multiple data visualization projects done to depict real
-world data using multiple visualization tools like:<br />
+world data using multiple visualization tools like:
 1. Bar Charts
 <br />
 2. Scatter plots
