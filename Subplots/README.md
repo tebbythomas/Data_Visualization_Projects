@@ -11,4 +11,4 @@ The subgraphs that are created by the script are <br />:
 ![Subgraph2 Depicted](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Subplots/fig1.png)
 <br />
 <br />
-![Subgraph3 Depicted](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Subplots/fig3.png)
+![Subgraph3 Depicted](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Subplots/fig2.png)
