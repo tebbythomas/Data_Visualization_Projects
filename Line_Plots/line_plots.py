@@ -1,6 +1,6 @@
 '''
-Reference:
-https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html
+Description:
+Program to print line plots using matplotlib. Custom data used
 '''
 from matplotlib import pyplot as plt
 

@@ -1,3 +1,7 @@
+'''
+Description:
+Python program to mimic writing real time youtube subcriber count information into a csv
+'''
 import csv
 import random
 import time

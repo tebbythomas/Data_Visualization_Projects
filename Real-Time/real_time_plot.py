@@ -1,7 +1,7 @@
 '''
 Description:
 Program to plot real time data as line plots. We are plotting real time
-subscriber count data
+Youtube subscriber count data
 '''
 import random
 from itertools import count
