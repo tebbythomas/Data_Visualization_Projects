@@ -5,4 +5,4 @@ Data input: data.csv<br />
 Output: bar_chart.png<br />
 <br />
 The bar chart that is created by the script is:
-![Bar Chart Depicted]https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png
+![Bar Chart Depicted](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
