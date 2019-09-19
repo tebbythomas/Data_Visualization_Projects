@@ -2,7 +2,7 @@
 
 This repo contains multiple data visualization projects done to depict real
 world data using multiple visualization tools like:
-<p>
+
 1. Bar Charts:
 <br />
 [Data Visualization Link](https://github.com/tebbythomas/Data_Visualization_Projects/tree/master/Bar_Charts)
