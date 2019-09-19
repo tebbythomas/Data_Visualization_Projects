@@ -2,17 +2,28 @@
 
 This repo contains multiple data visualization projects done to depict real
 world data using multiple visualization tools like:
-
-1. Bar Charts - ![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
-<br />
 <p>
-2. Scatter plots - [Project Link](https://github.com/tebbythomas/Data_Visualization_Projects/tree/master/Scatter_Plot)
+1. Bar Charts:
 <br />
-3. Real-time Line plots - [Project Link](https://github.com/tebbythomas/Data_Visualization_Projects/tree/master/Real-Time)
+![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
 <br />
-4. Time-Series line plots - [Project Link](https://github.com/tebbythomas/Data_Visualization_Projects/tree/master/Time_Series)
+2. Scatter plots:
 <br />
-5. Pie-Charts - [Project Link](https://github.com/tebbythomas/Data_Visualization_Projects/tree/master/Pie_Charts)
+![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
 <br />
-6. Histograms - [Project Link](https://github.com/tebbythomas/Data_Visualization_Projects/tree/master/Histograms)
-</p>
+3. Real-time Line plots:
+<br />
+![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
+<br />
+4. Time-Series line plots:
+<br />
+![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
+<br />
+5. Pie-Charts:
+<br />
+![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
+<br />
+6. Histograms:
+<br />
+![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
+<br />
