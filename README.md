@@ -5,25 +5,25 @@ world data using multiple visualization tools like:
 <p>
 1. Bar Charts:
 <br />
-[I'm an inline-style link](https://www.google.com)
+[I'm a relative reference to a repository file](../blob/master/Bar_Charts/bar_chart.png)
 <br />
 2. Scatter plots:
 <br />
-![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
+[I'm a relative reference to a repository file](../blob/master/Bar_Charts/bar_chart.png)
 <br />
 3. Real-time Line plots:
 <br />
-![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
+[I'm a relative reference to a repository file](../blob/master/Bar_Charts/bar_chart.png)
 <br />
 4. Time-Series line plots:
 <br />
-![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
+[I'm a relative reference to a repository file](../blob/master/Bar_Charts/bar_chart.png)
 <br />
 5. Pie-Charts:
 <br />
-![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
+[I'm a relative reference to a repository file](../blob/master/Bar_Charts/bar_chart.png)
 <br />
 6. Histograms:
 <br />
-![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
+[I'm a relative reference to a repository file](../blob/master/Bar_Charts/bar_chart.png)
 <br />
