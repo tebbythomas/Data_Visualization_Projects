@@ -5,7 +5,7 @@ world data using multiple visualization tools like:
 <p>
 1. Bar Charts:
 <br />
-![Depicted Visualization](https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Bar_Charts/bar_chart.png)
+[I'm an inline-style link](https://www.google.com)
 <br />
 2. Scatter plots:
 <br />
