@@ -3,7 +3,7 @@
 This repo contains multiple data visualization projects done to depict real
 world data using multiple visualization tools like:
 <p>
-1. Bar Charts - [Project Link](https://github.com/tebbythomas/Data_Visualization_Projects/tree/master/Bar_Charts)
+1. Bar Charts - ![Depicted Visualization](Bar_Charts/bar_chart.png)
 <br />
 2. Scatter plots - [Project Link](https://github.com/tebbythomas/Data_Visualization_Projects/tree/master/Scatter_Plot)
 <br />
