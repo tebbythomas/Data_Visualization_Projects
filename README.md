@@ -44,3 +44,10 @@ https://github.com/tebbythomas/Data_Visualization_Projects/tree/master/Histogram
 <br />
 <img src="https://github.com/tebbythomas/Data_Visualization_Projects/blob/master/Histograms/histogram.png" hspace="20">
 </p>
+<br />
+<br />
+<b>Credits:</b>
+<br />
+Corey Schafer:
+<br />
+https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
